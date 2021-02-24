@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="examen1.ej3test.Ej3Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:17:48" hostname="IGNACIOASUS" time="1.504">
+  <properties/>
+  <testcase name="correctValue" classname="examen1.ej3test.Ej3Test" time="1.503"/>
+  <testcase name="ceroValue" classname="examen1.ej3test.Ej3Test" time="0.0"/>
+  <testcase name="emptyValue" classname="examen1.ej3test.Ej3Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

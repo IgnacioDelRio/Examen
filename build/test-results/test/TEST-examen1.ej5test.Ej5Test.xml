@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="examen1.ej5test.Ej5Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:17:50" hostname="IGNACIOASUS" time="1.208">
+  <properties/>
+  <testcase name="verify_cambio_moneda" classname="examen1.ej5test.Ej5Test" time="1.208"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

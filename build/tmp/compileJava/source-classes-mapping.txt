@@ -1,0 +1,16 @@
+examen1/p1/Ej1.java
+ examen1.p1.Ej1
+examen1/p2/Ej2.java
+ examen1.p2.Ej2
+examen1/p3/Ej3.java
+ examen1.p3.Ej3
+examen1/p4/Ej4.java
+ examen1.p4.Ej4
+examen1/p5/Ej5.java
+ examen1.p5.Ej5
+examen1/p5/Util.java
+ examen1.p5.Util
+examen1/p4/Util2.java
+ examen1.p4.Util2
+examen1/p4/Util.java
+ examen1.p4.Util

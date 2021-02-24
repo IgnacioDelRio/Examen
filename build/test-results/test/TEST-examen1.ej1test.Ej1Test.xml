@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="examen1.ej1test.Ej1Test" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:17:48" hostname="IGNACIOASUS" time="0.003">
+  <properties/>
+  <testcase name="primoVerdadero" classname="examen1.ej1test.Ej1Test" time="0.002"/>
+  <testcase name="primoCero" classname="examen1.ej1test.Ej1Test" time="0.0"/>
+  <testcase name="primoFalse" classname="examen1.ej1test.Ej1Test" time="0.0"/>
+  <system-out><![CDATA[Test finalizado
+Test finalizado
+Test finalizado
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
